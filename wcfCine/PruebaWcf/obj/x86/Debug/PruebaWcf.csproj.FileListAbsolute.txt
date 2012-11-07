@@ -1,0 +1,6 @@
+C:\Users\Gely\Documents\Visual Studio 2010\Projects\wcfCine\PruebaWcf\bin\Debug\PruebaWcf.exe.config
+C:\Users\Gely\Documents\Visual Studio 2010\Projects\wcfCine\PruebaWcf\bin\Debug\PruebaWcf.exe
+C:\Users\Gely\Documents\Visual Studio 2010\Projects\wcfCine\PruebaWcf\bin\Debug\PruebaWcf.pdb
+C:\Users\Gely\Documents\Visual Studio 2010\Projects\wcfCine\PruebaWcf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gely\Documents\Visual Studio 2010\Projects\wcfCine\PruebaWcf\obj\x86\Debug\PruebaWcf.exe
+C:\Users\Gely\Documents\Visual Studio 2010\Projects\wcfCine\PruebaWcf\obj\x86\Debug\PruebaWcf.pdb
